@@ -9,8 +9,8 @@
 body {
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7;
-  background: #f4f7fa;
-  color: #333;
+  background: #f5f7fa;
+  color: #444;
   font-size: 16px;
 }
 
@@ -22,7 +22,7 @@ a {
 
 /* Header */
 header {
-  background: #000000;
+  background: #2c3e50;
   color: #fff;
   padding: 1.2rem 0;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -51,17 +51,15 @@ nav a {
 }
 
 nav a:hover {
-  color: #f9a826;
+  color: #50e3c2;
 }
 
 /* Hero */
 .hero {
-  background: linear-gradient(to right, #f97400, #ff9933);
+  background: linear-gradient(to right, #4a90e2, #50e3c2);
   color: #fff;
   text-align: center;
   padding: 5rem 2rem;
-  position: relative;
-  overflow: hidden;
 }
 
 .hero h2 {
@@ -78,7 +76,7 @@ nav a:hover {
   display: inline-block;
   margin-top: 2rem;
   padding: 0.75rem 1.75rem;
-  background: #f9a826;
+  background: #4a90e2;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
@@ -87,13 +85,13 @@ nav a:hover {
 }
 
 .hero .btn:hover {
-  background: #e38e10;
+  background: #4178c0;
 }
 
 /* Highlight Text */
 .highlight {
   font-size: 1.2rem;
-  color: #000000;
+  color: #2c3e50;
   font-weight: bold;
   margin-top: 1rem;
 }
@@ -106,9 +104,9 @@ nav a:hover {
 
 h2 {
   margin-bottom: 1.5rem;
-  color: #f97400;
+  color: #2c3e50;
   font-size: 1.8rem;
-  border-bottom: 2px solid #f9a826;
+  border-bottom: 2px solid #50e3c2;
   display: inline-block;
   padding-bottom: 0.3rem;
 }
@@ -122,7 +120,7 @@ h2 {
 }
 
 .skills-list li {
-  background: #f9a826;
+  background: #50e3c2;
   color: #fff;
   padding: 0.5rem 1.2rem;
   border-radius: 20px;
@@ -169,7 +167,7 @@ footer {
   text-align: center;
   padding: 1.5rem;
   margin-top: 3rem;
-  background: #000000;
+  background: #2c3e50;
   color: #fff;
   font-size: 0.95rem;
   opacity: 0.95;
