@@ -19,40 +19,17 @@ a {
 }
 
 /* Header */
+/* Header */
 header {
-  background: linear-gradient(90deg, #12a650, #0e8d45);
+  background: #000000;
   color: #fff;
   padding: 1.2rem 0;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-nav {
-  width: 90%;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 1.5rem;
-}
-
-nav a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-nav a:hover {
-  color: #f9a826;
-}
-
 /* Hero */
 .hero {
-  background: linear-gradient(to right, #3294f1, #5caefc);
+  background: linear-gradient(to right, #f97400, #ff9933); /* new orange gradient */
   color: #fff;
   text-align: center;
   padding: 5rem 2rem;
@@ -60,83 +37,48 @@ nav a:hover {
   overflow: hidden;
 }
 
-.hero h2 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.hero p {
-  font-size: 1.2rem;
-  opacity: 0.9;
-}
-
+/* Buttons */
 .hero .btn {
-  display: inline-block;
-  margin-top: 2rem;
-  padding: 0.75rem 1.75rem;
   background: #f9a826;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-  transition: background 0.3s ease;
 }
-
 .hero .btn:hover {
   background: #e38e10;
 }
 
-/* Containers & Sections */
-.container {
-  width: 85%;
-  max-width: 1200px;
-  margin: 3rem auto;
-}
-
+/* Section Headings */
 h2 {
-  margin-bottom: 1.5rem;
-  color: #3366cc;
-  font-size: 1.8rem;
+  color: #f97400; /* orange headings */
   border-bottom: 2px solid #f9a826;
-  display: inline-block;
-  padding-bottom: 0.3rem;
 }
 
 /* Skills */
-.skills-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
-  padding-left: 0;
-}
-
 .skills-list li {
   background: #f9a826;
+}
+
+/* Footer */
+footer {
+  background: #000000;
   color: #fff;
-  padding: 0.5rem 1.2rem;
-  border-radius: 20px;
-  font-weight: 500;
-  font-size: 0.95rem;
 }
 
-/* Projects */
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+/* Nav Hover */
+nav a:hover {
+  color: #f9a826;
 }
 
-.project-card {
-  background: #fff;
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
+/* Project Card Hover (unchanged, still neutral) */
 .project-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* Optional: Masters student styling */
+.highlight {
+  font-size: 1.2rem;
+  color: #000000; /* changed to black as requested */
+  font-weight: bold;
+  margin-top: 1rem;
 }
 
 .project-card img {
@@ -153,14 +95,4 @@ h2 {
   margin-top: 15px;
 }
 
-/* Footer */
-footer {
-  text-align: center;
-  padding: 1.5rem;
-  background: #0e8d45;
-  color: #fff;
-  margin-top: 3rem;
-  font-size: 0.95rem;
-  opacity: 0.95;
-}
 
