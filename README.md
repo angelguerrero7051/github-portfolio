@@ -32,11 +32,11 @@ I'm aiming to build a career in:
 - **Bioinformatics**  
 - **Computational Biology**  
 - **Biotech / Environmental Data Science**  
-I'm especially fascinated by opportunities in data-driven ecological research, genomics, and interdisciplinary collaborations.
+I'm especially fascinated by opportunities in data-driven ecological research, genomics, and interdisciplinary collaborations with biomedical engineers.
 
 ---
 
 ###  Connect with Me  
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: [Your Email]  
-- **Portfolio / Blog**: [Your Personal Site]
+- **LinkedIn**: https://www.linkedin.com/in/aaguerr3 
+- **Email**: angel.guerrero7051@gmail.com 
+- **Portfolio**: https://angelguerrero7051.github.io/github-portfolio/#projects
