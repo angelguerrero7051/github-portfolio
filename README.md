@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-Hi! I’m Angel, a graduate student at ASU studying **Biological Data Science** with a background in **Earth & Space Exploration**. My work blends **bioinformatics**, **data analytics**, and **engineering** to solve real-world problems—whether it's analyzing genomic data, building high-altitude microbe collection systems, or modeling spaceflight biology.
+Hi! I’m Angel, a graduate student at ASU studying **Biological Data Science** with a background in **Earth & Space Exploration** and **Data Statistics**. My work blends **bioinformatics**, **data analytics**, and **general engineering aspects** to solve real-world problems, whether it's analyzing genomic data, building complex and mechanically stable systems, or modeling systems.
 
 I'm passionate about applying interdisciplinary methods from **biology, environmental engineering, and computing** to tackle pressing scientific and engineering challenges.
 
@@ -15,7 +15,7 @@ I'm passionate about applying interdisciplinary methods from **biology, environm
 
 ### 🛠️ Skills & Tools
 
-- **Programming & Scripting**: Python (NumPy, Pandas, Matplotlib, Seaborn), R (ggplot2), SQL, MATLAB, C/C++, Bash
+- **Programming & Scripting**: Python (NumPy, Pandas, Matplotlib, Seaborn), R (ggplot2), SQL, MATLAB, C/C++, Bash, Git, JMP
 - **Bioinformatics**: UseGalaxy, KBase, Genomic Analysis, Transcriptomics, Machine Learning (Classification)
 - **Data Science**: Data Cleaning, Visualization, QA/QC, Statistical Modeling, Environmental Modeling
 - **Engineering Tools**: Siemens NX, AutoCAD, SolidWorks, MBSE, PLM, Jira
@@ -51,6 +51,7 @@ I’m exploring roles in:
 - **Computational Biology**
 - **Environmental or Biomedical Data Science**
 - **Systems & Data Engineering**
+- **Data Analytics or Visualization**
 
 I love mission-driven teams working on problems at the intersection of biology, engineering, and data.
 
