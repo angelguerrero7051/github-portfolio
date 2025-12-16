@@ -1,8 +1,8 @@
 # 🔬 NHANES Sleep-Health Analysis (R)
 
-[cite_start]This project conducts a **quantitative cross-sectional analysis** using data from the **National Health and Nutrition Examination Survey (NHANES)** [cite: 8] [cite_start]to investigate the association between sleep duration, depressive symptoms, and overall self-reported health in U.S. adults (N=6,652)[cite: 32].
+This project conducts a quantitative cross-sectional analysis using data from the National Health and Nutrition Examination Survey (NHANES) [8, 32] to investigate the association between sleep duration, depressive symptoms, and overall self-reported health in U.S. adults ($N=6,652$).
 
-[cite_start]My goal was to determine if insufficient or excessive sleep duration is linked to poorer health outcomes, particularly depression and low interest in daily activities[cite: 5, 7, 11].
+🎯 Project GoalThe primary objective was to determine if insufficient or excessive sleep duration is linked to poorer health outcomes, particularly depression and low interest in daily activities.
 
 ---
 
@@ -12,13 +12,13 @@ The analysis employed R for data cleaning, visualization (ggplot2), and statisti
 
 ### 1. Data Cleaning and Preparation
 
-[cite_start]The NHANES dataset was filtered to include participants aged 18 or older with complete data for the variables of interest[cite: 14, 57].
+The NHANES dataset was filtered to include participants aged 18 or older with complete data for the variables of interest.
 
 # 🔬 NHANES Sleep-Health Analysis (R)
 
-[cite_start]This project conducts a **quantitative cross-sectional analysis** using data from the **National Health and Nutrition Examination Survey (NHANES)** [cite: 8] [cite_start]to investigate the association between sleep duration, depressive symptoms, and overall self-reported health in U.S. adults (N=6,652)[cite: 32].
+This project conducts a **quantitative cross-sectional analysis** using data from the **National Health and Nutrition Examination Survey (NHANES)** to investigate the association between sleep duration, depressive symptoms, and overall self-reported health in U.S. adults (N=6,652).
 
-[cite_start]My goal was to determine if insufficient or excessive sleep duration is linked to poorer health outcomes, particularly depression and low interest in daily activities[cite: 5, 7, 11].
+My goal was to determine if insufficient or excessive sleep duration is linked to poorer health outcomes, particularly depression and low interest in daily activities.
 
 ---
 
@@ -28,7 +28,7 @@ The analysis employed R for data cleaning, visualization (ggplot2), and statisti
 
 ### 1. Data Cleaning and Preparation
 
-[cite_start]The NHANES dataset was filtered to include participants aged 18 or older with complete data for the variables of interest[cite: 14, 57].
+The NHANES dataset was filtered to include participants aged 18 or older with complete data for the variables of interest.
 
 ```r
 # Load libraries
