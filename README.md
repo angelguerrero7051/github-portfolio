@@ -1,68 +1,54 @@
 # Angel Guerrero 🧬
 
-**M.S. in Biological Data Science**, Arizona State University  
-🚀 Engineering + Bioinformatics + Data Science
+**M.S. in Biological Data Science | Arizona State University** *Bridging the gap between Engineering, Bioinformatics, and Data Science*
 
 ---
 
 ### 🧠 About Me
 
-Hi! I’m Angel, a graduate student at ASU studying **Biological Data Science** with a background in **Earth & Space Exploration** and **Data Statistics**. My work blends **bioinformatics**, **data analytics**, and **general engineering aspects** to solve real-world problems, whether it's analyzing genomic data, building complex and mechanically stable systems, or modeling systems.
+Hi! I’m Angel. My work sits at the intersection of **biology, environmental engineering, and computing**. With a background spanning Earth & Space Exploration to Genomic Analysis, I specialize in building mechanically stable systems and modeling complex biological data.
 
-I'm passionate about applying interdisciplinary methods from **biology, environmental engineering, and computing** to tackle pressing scientific and engineering challenges.
-
----
-
-### 🛠️ Skills & Tools
-
-- **Programming & Scripting**: Python (NumPy, Pandas, Matplotlib, Seaborn), R (ggplot2), SQL, MATLAB, C/C++, Bash, Git, JMP
-- **Bioinformatics**: UseGalaxy, KBase, Genomic Analysis, Transcriptomics, Machine Learning (Classification)
-- **Data Science**: Data Cleaning, Visualization, QA/QC, Statistical Modeling, Environmental Modeling
-- **Engineering Tools**: Siemens NX, AutoCAD, SolidWorks, MBSE, PLM, Jira
-- **Hardware**: 3D Printing, Arduino, Soldering, Sensor Integration
-- **Visualization**: Tableau, Power BI, ArcGIS, Excel
-- **Soft Skills**: Technical Writing, Mentoring, Scientific Presentation, Project Coordination
+- 🔭 **Current Focus**: Analyzing genomic data and optimizing bio-engineering workflows.
+- ⚡ **Unique Edge**: Combining Systems Engineering (MBSE/PLM) with Bioinformatics pipelines.
+- 🌱 **Learning**: Advanced Machine Learning for transcriptomics.
 
 ---
 
-### 📂 Projects & Research Highlights
+### 🛠️ Tech Stack
 
-- **🌍 HERA Capstone**  
-  Designed a real-time Arduino-based system to collect microbes at 15 km altitude. Integrated C++ sensor controls for stratospheric conditions and presented project via [Google Slides](https://docs.google.com/presentation/d/1nZfStZPTZssERJ0TnQ5ofVAft1nvwwe9YFBu4VFlwhQ/view).
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | `Python (NumPy, Pandas, Scikit-learn)`, `R (ggplot2)`, `SQL`, `MATLAB`, `C++`, `Bash` |
+| **Bioinformatics** | `UseGalaxy`, `KBase`, `Genomic Analysis`, `Transcriptomics`, `Ortholog Mapping` |
+| **Engineering** | `Siemens NX`, `AutoCAD`, `SolidWorks`, `MBSE`, `Jira`, `Arduino` |
+| **Data & Viz** | `Tableau`, `Power BI`, `ArcGIS`, `JMP`, `Seaborn`, `Matplotlib` |
 
-- **🧬 NSURP Meta-Analysis – NASA GeneLab**  
-  Conducted transcriptomic meta-analysis on microgravity experiments (rodents, *C. elegans*, human cells). Analyzed DEGs, performed ortholog mapping, pathway enrichment, and network modeling using Python/R.  
-  [View Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pub)
-
-- **🧪 OHSU Bioinformatics Internship**  
-  Used UseGalaxy and machine learning to study viral co-infections (e.g., SARS-CoV-2) and microRNA expression. Presented findings at ABRCMS 2024 and mentored junior interns.
-
-- **🚀 NASA L'SPACE Academy**  
-  Led systems engineering for a robotic mission concept. Oversaw subsystem integration using Siemens NX and thermal analysis, aligned with NASA’s proposal standards.  
-  [Learn more](https://www.lspace.asu.edu/)
-
-- **🧬 Case Study Between Sleep and Mental Health**  
-  This project analyzed NHANES data from 6,652 U.S. adults to examine how sleep duration relates to depressive symptoms and self-rated health. Using ANOVA and regression analyses, the study found that poorer general health, depressive symptoms, sleep trouble, and more days of poor mental health are all associated with shorter sleep duration. Overall, the results support a significant link between healthier sleep patterns and better mental health and well-being.
-  [Learn more and View Presentation](https://docs.google.com/presentation/d/1sTSWLAs2Fl9yXkXnW4jmWEpYJpWly9EQCtbR9FcU_gU/edit?usp=sharing)
 ---
 
-### 🎯 Career Interests
+### 📂 Featured Projects
 
-I’m exploring roles in:
+#### 🌍 HERA Capstone: Stratospheric Microbe Collection
+Designed a real-time **Arduino-based** system to collect microbes at 15 km altitude. Integrated **C++ sensor controls** for extreme stratospheric conditions.
+[📊 View Presentation](https://docs.google.com/presentation/d/1nZfStZPTZssERJ0TnQ5ofVAft1nvwwe9YFBu4VFlwhQ/view)
 
-- **Bioinformatics & Genomics**
-- **Computational Biology**
-- **Environmental or Biomedical Data Science**
-- **Systems & Data Engineering**
-- **Data Analytics or Visualization**
+#### 🧬 NASA GeneLab: Transcriptomic Meta-Analysis
+Conducted meta-analysis on microgravity experiments (rodents & *C. elegans*). Identified **DEGs** and performed **pathway enrichment** and **network modeling** using Python/R.
+[🔬 View Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pub)
 
-I love mission-driven teams working on problems at the intersection of biology, engineering, and data.
+#### 🧪 OHSU Bioinformatics: Viral Co-infection Study
+Leveraged **Machine Learning** and **UseGalaxy** to study SARS-CoV-2 and microRNA expression. Presented findings at **ABRCMS 2024**.
+
+#### 🚀 NASA L'SPACE Academy: Systems Engineering
+Lead Systems Engineer for a robotic mission concept. Managed subsystem integration and **thermal analysis** using **Siemens NX**, adhering to NASA proposal standards.
+
+#### 🧠 NHANES: Sleep & Mental Health Analysis
+Statistical study of 6,652 U.S. adults using **ANOVA and regression**. Established significant correlations between sleep duration, depressive symptoms, and general well-being.
+[📈 View Case Study](https://docs.google.com/presentation/d/1sTSWLAs2Fl9yXkXnW4jmWEpYJpWly9EQCtbR9FcU_gU/edit?usp=sharing)
 
 ---
 
 ### 🌐 Connect With Me
 
-- **Portfolio**: [angelguerrero7051.github.io](https://angelguerrero7051.github.io/github-portfolio/#projects)  
-- **LinkedIn**: [linkedin.com/in/aaguerr3](https://www.linkedin.com/in/aaguerr3)  
-- **GitHub**: [github.com/angelguerrero7051](https://github.com/angelguerrero7051)  
-- **Email**: [angel.guerrero7051@gmail.com](mailto:angel.guerrero7051@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaguerr3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://angelguerrero7051.github.io/github-portfolio/#projects)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angel.guerrero7051@gmail.com) 
