@@ -1,52 +1,124 @@
-<section id="projects" class="container">
-  <h2>Projects</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Angel Guerrero | Biological Data Science Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
 
-  <div class="project-grid">
+  <header>
+    <nav>
+      <h1>Angel Guerrero</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <div class="project-card">
-      <h3>🌍 High Elevation Research in Aerobiology Capstone</h3>
-      <img src="hera-preview.png" alt="HERA Project Slide Preview" style="width:100%; border-radius: 8px;" />
-      <p>
-        Engineered a real-time system to collect and analyze microbes at 15 km altitude using Arduino sensors.
-        Developed a C/C++ pipeline to synchronize motors and environmental sensors.
-      </p>
-      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6LXnVlGu6BnvSqGdJ0uXaOs2PUV51zJNkUFDCbXjnjaMLFV78foOchdO2fFpjFTicprkqpdpySIGC/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe>
-      <p><a href="https://docs.google.com/presentation/d/1nZfStZPTZssERJ0TnQ5ofVAft1nvwwe9YFBu4VFlwhQ/view" target="_blank" rel="noopener">📄 View Full Slides</a></p>
+  <section class="hero">
+    <div class="container">
+      <h2>M.S. Biological Data Science @ ASU</h2>
+      <p>Bridging Engineering, Bioinformatics, and Computational Science to solve complex real-world challenges.</p>
+      <a href="#projects" class="btn">View My Work</a>
     </div>
+  </section>
 
-    <div class="project-card">
-      <h3>🧪 OHSU Bioinformatics Internship</h3>
-      <p>
-        Developed scalable workflows in UseGalaxy for analyzing microRNA expression and viral co-infections. 
-        Mentored junior interns and applied machine learning models.
-      </p>
-      <p>🔬 <strong>Tools:</strong> UseGalaxy, Python, R, Machine Learning</p>
+  <section id="about" class="container">
+    <h2>About Me</h2>
+    <p>
+      I’m pursuing my Master of Science in Biological Data Science at Arizona State University. 
+      With a background in <strong>Earth & Space Exploration</strong>, I combine interdisciplinary expertise in 
+      <strong>biology, engineering, and chemistry</strong> to tackle high-impact data analytics and systems engineering roles.
+    </p>
+  </section>
+
+  <section id="skills" class="container">
+    <h2>Technical Skills</h2>
+    <div class="skills-grid">
+      <div class="skill-card">
+        <h3>Programming</h3>
+        <p>Python (NumPy, Pandas, Scikit-learn), R (ggplot2), SQL, MATLAB, C/C++, Arduino IDE</p>
+      </div>
+      <div class="skill-card">
+        <h3>Bioinformatics</h3>
+        <p>UseGalaxy, KBase, Genomic Data Analysis, Transcriptomics, Machine Learning (Classification)</p>
+      </div>
+      <div class="skill-card">
+        <h3>Engineering</h3>
+        <p>Siemens NX, AutoCAD, SolidWorks, MBSE, PLM, Thermal Analysis, GNC</p>
+      </div>
+      <div class="skill-card">
+        <h3>Data Viz</h3>
+        <p>Tableau, Power BI, ArcGIS, Seaborn, Matplotlib, Microsoft Excel</p>
+      </div>
     </div>
+  </section>
 
-    <div class="project-card">
-      <h3>🧬 NSURP Scholar – Microgravity Transcriptomics</h3>
-      <p>
-        Meta-analysis of NASA GeneLab datasets investigating biological adaptations to spaceflight using differential expression and network modeling.
-      </p>
-      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pubembed?start=false" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe>
-      <p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pub" target="_blank" rel="noopener">📄 View Full Slides</a></p>
+  <section id="projects" class="container">
+    <h2>Featured Projects</h2>
+    <div class="project-list">
+
+      <div class="project-card">
+        <div class="project-media">
+          <img src="hera-preview.png" alt="HERA Project hardware">
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6LXnVlGu6BnvSqGdJ0uXaOs2PUV51zJNkUFDCbXjnjaMLFV78foOchdO2fFpjFTicprkqpdpySIGC/pubembed?start=false" frameborder="0" allowfullscreen="true"></iframe>
+        </div>
+        <div class="project-info">
+          <h3>🌍 HERA Capstone: Aerobiology</h3>
+          <p>Engineered a real-time system to collect microbes at 15 km altitude. Integrated C++ sensor controls for stratospheric balloon deployment.</p>
+          <div class="tags"><span>C++</span><span>Arduino</span><span>Hardware</span></div>
+          <a href="https://docs.google.com/presentation/d/1nZfStZPTZssERJ0TnQ5ofVAft1nvwwe9YFBu4VFlwhQ/view" target="_blank" rel="noopener">View Full Presentation →</a>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-media">
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pubembed?start=false" frameborder="0" allowfullscreen="true"></iframe>
+        </div>
+        <div class="project-info">
+          <h3>🧬 NASA GeneLab Meta-Analysis</h3>
+          <p>Meta-analysis of microgravity transcriptomics. Identified gene pathways affected by spaceflight to support astronaut health countermeasures.</p>
+          <div class="tags"><span>R</span><span>Bioinformatics</span><span>Python</span></div>
+          <a href="https://docs.google.com/presentation/d/e/2PACX-1vSiyYH3Rolcve6THsxG7BGj_QgqDfek4jeYaRyRuXqankvYK9R8Mgcs06uFH_MEyA/pub" target="_blank" rel="noopener">View NASA Research →</a>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-media">
+          <div class="placeholder-media">🚀 Systems Engineering</div>
+        </div>
+        <div class="project-info">
+          <h3>🚀 NASA L'SPACE Mission Concept</h3>
+          <p>Lead Systems Engineer for a robotic mission concept. Directed subsystem integration and thermal analysis using Siemens NX.</p>
+          <div class="tags"><span>Siemens NX</span><span>MBSE</span><span>Leadership</span></div>
+          <a href="https://www.lspace.asu.edu/" target="_blank" rel="noopener">Learn more →</a>
+        </div>
+      </div>
+
     </div>
+  </section>
 
-    <div class="project-card">
-      <h3>🚀 NASA L'SPACE Mission Concept</h3>
-      <p>
-        Lead Systems Engineer for a robotic mission concept. Oversaw subsystem integration using Siemens NX and conducted thermal control trade studies.
-      </p>
-      <p>🔗 <a href="https://www.lspace.asu.edu/" target="_blank" rel="noopener">Learn more about L'SPACE Academy</a></p>
+  <section id="contact" class="container">
+    <h2>Contact</h2>
+    <div class="contact-grid">
+      <a href="mailto:angel.guerrero7051@gmail.com" class="contact-btn">Email Me</a>
+      <a href="https://www.linkedin.com/in/aaguerr3/" target="_blank" class="contact-btn">LinkedIn</a>
+      <a href="https://github.com/angelguerrero7051" target="_blank" class="contact-btn">GitHub</a>
     </div>
+  </section>
 
-    <div class="project-card">
-      <h3>🧠 Bioinformatics: Sleep & Mental Health</h3>
-      <p>
-        Statistical analysis using R/RStudio to determine correlations between sleep duration and mental wellness using NHANES data.
-      </p>
-      <iframe src="https://docs.google.com/presentation/d/1sTSWLAs2Fl9yXkXnW4jmWEpYJpWly9EQCtbR9FcU_gU/preview" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe>
-      <p>🔗 <a href="https://docs.google.com/presentation/d/1sTSWLAs2Fl9yXkXnW4jmWEpYJpWly9EQCtbR9FcU_gU/view" target="_blank" rel="noopener">View Full Case Study</a></p>
-    </div>
+  <footer>
+    <p>© 2025 Angel Guerrero | Arizona State University</p>
+  </footer>
 
-  </div> </section>
+  <script src="script.js"></script>
+</body>
+</html>
