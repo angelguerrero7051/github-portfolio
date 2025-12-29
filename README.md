@@ -41,6 +41,9 @@ I'm passionate about applying interdisciplinary methods from **biology, environm
   Led systems engineering for a robotic mission concept. Oversaw subsystem integration using Siemens NX and thermal analysis, aligned with NASA’s proposal standards.  
   [Learn more](https://www.lspace.asu.edu/)
 
+- **🧬 Case Study Between Sleep and Mental Health**  
+  This project analyzed NHANES data from 6,652 U.S. adults to examine how sleep duration relates to depressive symptoms and self-rated health. Using ANOVA and regression analyses, the study found that poorer general health, depressive symptoms, sleep trouble, and more days of poor mental health are all associated with shorter sleep duration. Overall, the results support a significant link between healthier sleep patterns and better mental health and well-being.
+  [Learn more and View Presentation](https://docs.google.com/presentation/d/1sTSWLAs2Fl9yXkXnW4jmWEpYJpWly9EQCtbR9FcU_gU/edit?usp=sharing)
 ---
 
 ### 🎯 Career Interests
